@@ -1,7 +1,7 @@
 const generateManagerCard = (manger) => {
     return `
 
-        <div class='card'>
+        <div class='card text-white bg-danger'>
          <h3>${manger.getName()}</h3>
             <p><i class='fa-solid fa-mug-hot'></i>${manger.getRole()}</p>
              <div class='card-body'>
@@ -19,7 +19,7 @@ const generateManagerCard = (manger) => {
 const generateEngineerCard = (engineer) => {
     return `
 
-        <div class='card'>
+        <div class='card text-white bg-primary'>
          <h3>${engineer.getName()}</h3>
             <p><i class="fa-solid fa-glasses"></i>${engineer.getRole()}</p>
              <div class='card-body'>
@@ -36,7 +36,7 @@ const generateEngineerCard = (engineer) => {
 const generateInternCard = (intern) => {
     return `
 
-        <div class='card'>
+        <div class='card text-white bg-info'>
          <h3>${intern.getName()}</h3>
             <p><i class="fa-solid fa-user-graduate"></i>${intern.getRole()}</p>
              <div class='card-body'>
