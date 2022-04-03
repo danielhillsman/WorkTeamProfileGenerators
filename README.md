@@ -9,7 +9,6 @@ An app to generate a professional Team with all three classes under Employee: Ma
 * [Usage](#usage)
 - [License](#license)
 * [Contributing](#contributing)
-- [LiveLink](#livelink)
 * [RepoLink](#repolink)
 - [ScreenVideo](#screenvideo)
 * [Screenshot](#screenshot)
@@ -25,9 +24,6 @@ An app to generate a professional Team with all three classes under Employee: Ma
 ## Contributing
 
 I had some help from my instructors.
-
-## LiveLink
-https://github.com/danielhillsman/WorkTeamProfileGenerators
 
 ## RepoLink
  https://danielhillsman.github.io/WorkTeamProfileGenerators/
