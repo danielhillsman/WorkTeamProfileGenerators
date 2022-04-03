@@ -9,10 +9,10 @@ An app to generate a professional Team with all three classes under Employee: Ma
 * [Usage](#usage)
 - [License](#license)
 * [Contributing](#contributing)
-* [RepoLink](#repolink)
-- [ScreenVideo](#screenvideo)
-* [Screenshot](#screenshot)
-- [Contact](#contact)
+- [RepoLink](#repolink)
+* [ScreenVideo](#screenvideo)
+- [Screenshot](#screenshot)
+* [Contact](#contact)
 
 ## Usage
 
