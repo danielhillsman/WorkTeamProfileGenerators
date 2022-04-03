@@ -5,12 +5,14 @@ An app to generate a professional Team with all three classes under Employee: Ma
 
 
 ## Table of Contents
-* [Description](#description)
+- [Description](#description)
 * [Usage](#usage)
 - [License](#license)
 * [Contributing](#contributing)
 - [LiveLink](#livelink)
 * [RepoLink](#repolink)
+- [ScreenVideo](#screenvideo)
+* [Screenshot](#screenshot)
 - [Contact](#contact)
 
 ## Usage
@@ -30,8 +32,10 @@ https://github.com/danielhillsman/WorkTeamProfileGenerators
 ## RepoLink
  https://danielhillsman.github.io/WorkTeamProfileGenerators/
  
-## Screen Video
+## ScreenVideo
 https://drive.google.com/file/d/1jV9JqkVCD_zVVmVFGiieYeFTgZSvfDYJ/view
+
+## Screenshots
 
 ## Contact
 Have any questions? Please contact me at [daniel.loves.junk@gmail.com](mailto:daniel.loves.junk@gmail.com). View more of my work in GitHub at [danielhillsman](https://github.com/danielhillsman)
