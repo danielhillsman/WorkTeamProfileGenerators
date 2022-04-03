@@ -107,3 +107,4 @@ dist
 
 #m Mics.
 .DS_Store
+node_modules
