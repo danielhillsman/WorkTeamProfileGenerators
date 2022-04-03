@@ -1,5 +1,4 @@
 const inquirer = require('inquirer')
-const path = require('path')
 const fs = require('fs')
 
 const Manager = require('./lib/Manager')
@@ -82,17 +81,17 @@ function init(){
                 {
                   type: 'input',
                   name: 'email',
-                  message: 'What is your E-Mail?',
+                  message: "What is the Engineer's E-Mail?",
                 },
                 {
                   type: 'input',
                   name: 'id',
-                  message: "What is the intern's ID?",
+                  message: "What is the Engineer's ID?",
                 },
                 {
                   type: 'input',
                   name: 'github',
-                  message: 'What is your github username?',
+                  message: 'What is their github username?',
                 },
           ])
           .then(({name, id, email, github}) => {
@@ -113,7 +112,7 @@ function init(){
               {
                 type: 'input',
                 name: 'email',
-                message: 'What is your E-Mail?',
+                message: "What is the Intern's E-Mail?",
               },
               {
                 type: 'input',
@@ -123,7 +122,7 @@ function init(){
               {
                 type: 'input',
                 name: 'school',
-                message: 'What is your school username?',
+                message: 'What is their school username?',
               },
         ])
         .then(({name, id, email, school}) => {
