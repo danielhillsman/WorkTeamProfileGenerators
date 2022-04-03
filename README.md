@@ -33,10 +33,12 @@ https://github.com/danielhillsman/WorkTeamProfileGenerators
  https://danielhillsman.github.io/WorkTeamProfileGenerators/
  
 ## ScreenVideo
-https://drive.google.com/file/d/1jV9JqkVCD_zVVmVFGiieYeFTgZSvfDYJ/view
+![video](https://drive.google.com/file/d/1jV9JqkVCD_zVVmVFGiieYeFTgZSvfDYJ/view)
 
 ## Screenshots
-https://raw.githubusercontent.com/danielhillsman/WorkTeamProfileGenerators/main/Assets/screenshot2.png
+
+![image](https://user-images.githubusercontent.com/99533951/161407599-f2d8b271-5f9b-4699-97a6-988b39e768a2.png)
+
 
 ## Contact
 Have any questions? Please contact me at [daniel.loves.junk@gmail.com](mailto:daniel.loves.junk@gmail.com). View more of my work in GitHub at [danielhillsman](https://github.com/danielhillsman)
