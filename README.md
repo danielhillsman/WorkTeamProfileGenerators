@@ -33,7 +33,7 @@ https://github.com/danielhillsman/WorkTeamProfileGenerators
  https://danielhillsman.github.io/WorkTeamProfileGenerators/
  
 ## ScreenVideo
-![video](https://drive.google.com/file/d/1jV9JqkVCD_zVVmVFGiieYeFTgZSvfDYJ/view)
+https://drive.google.com/file/d/1jV9JqkVCD_zVVmVFGiieYeFTgZSvfDYJ/view
 
 ## Screenshots
 
